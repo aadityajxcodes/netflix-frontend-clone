@@ -23,7 +23,4 @@ https://netflix-frontend-clone-theta.vercel.app/user_dashboard/browse.html
 ![img description](https://github.com/Rajesh-Royal/netflix-clone-cideigniter/blob/master/images/screenshot.jpg)
 
 
-### License 
 
- ###### <a href="https://github.com/Rajesh-Royal/netflix-frontend-clone/blob/master/LICENSE" target="_blank">GNU GENERAL PUBLIC LICENSE</a>
- Version 3, 29 June 2007
