@@ -3,8 +3,7 @@
 <p align="center">A Netflix Frontend clone for a video streaming website, built entirely with CSS3 using Flexbox, and incorporating JS dependencies such as OwlCarousel and JQuery</p>
 
 <p align="center">
-	<a href="https://github.com/Rajesh-Royal/netflix-frontend-clone"><img src="https://github.com/Rajesh-Royal/netflix-frontend-clone/blob/master/images/directory%20size.png" height="30"/></a>
-    <a href="https://twitter.com/intent/tweet?text=Video streaming website Netflix Frontend clone. Frontend - HTML5, CSS3, JS.&url=https://github.com/Rajesh-Royal/netflix-frontend-clone&hashtags=javascript,opensource,js,webdev,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="30"/></a>
+	
 </p><br/><br/>
 
 <button> hello </button>
